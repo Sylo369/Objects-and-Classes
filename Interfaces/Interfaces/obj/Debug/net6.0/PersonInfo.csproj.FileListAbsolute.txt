@@ -1,0 +1,15 @@
+D:\Storage\Repos\Interfaces\Interfaces\obj\Debug\net6.0\PersonInfo.csproj.AssemblyReference.cache
+D:\Storage\Repos\Interfaces\Interfaces\obj\Debug\net6.0\PersonInfo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Storage\Repos\Interfaces\Interfaces\obj\Debug\net6.0\PersonInfo.AssemblyInfoInputs.cache
+D:\Storage\Repos\Interfaces\Interfaces\obj\Debug\net6.0\PersonInfo.AssemblyInfo.cs
+D:\Storage\Repos\Interfaces\Interfaces\obj\Debug\net6.0\PersonInfo.csproj.CoreCompileInputs.cache
+D:\Storage\Repos\Interfaces\Interfaces\bin\Debug\net6.0\PersonInfo.exe
+D:\Storage\Repos\Interfaces\Interfaces\bin\Debug\net6.0\PersonInfo.deps.json
+D:\Storage\Repos\Interfaces\Interfaces\bin\Debug\net6.0\PersonInfo.runtimeconfig.json
+D:\Storage\Repos\Interfaces\Interfaces\bin\Debug\net6.0\PersonInfo.dll
+D:\Storage\Repos\Interfaces\Interfaces\bin\Debug\net6.0\PersonInfo.pdb
+D:\Storage\Repos\Interfaces\Interfaces\obj\Debug\net6.0\PersonInfo.dll
+D:\Storage\Repos\Interfaces\Interfaces\obj\Debug\net6.0\refint\PersonInfo.dll
+D:\Storage\Repos\Interfaces\Interfaces\obj\Debug\net6.0\PersonInfo.pdb
+D:\Storage\Repos\Interfaces\Interfaces\obj\Debug\net6.0\PersonInfo.genruntimeconfig.cache
+D:\Storage\Repos\Interfaces\Interfaces\obj\Debug\net6.0\ref\PersonInfo.dll
